@@ -1,24 +1,35 @@
 <html>
-    <body>
-        <header>
-            <img src="https://mars.algoritmika.org/uploads/2020/11/logo_0_1606475988.png"/>
-            <a href="#news">Новости</a>
-            <a href="#contest">Конкурс</a>
-            <a href="#plans">Планы развития</a>
-        </header>
-        <main>
-            <h1>Pixel Design</h1>
-            <h2 id="news">Наши последние новости</h2>
-            <p>В нашей студии новый дизайнер: пиксель Cube. Именно он будет выполнять ваши заказы по трёхмерной графике. Увлекается ладшафтным и интерьерным дизайном. Недавно он давал интервью газете <i>Progress news</i>.<br/><img src ="https://mars.algoritmika.org/uploads/2020/11/news_0_1606476698.png"></p>
-            <h2 id="contest">Готовимся к конкурсу</h2>
-            <p>Весной следующего года мы участвуем в конкурсе дизайна. Наши работы будут представлены в направлениях: <i>веб-дизайн, полиграфический дизайн, дизайн интерьеров</i>. По каждому направлению мы собираемся представить несколько работ, которые пройдут предварительный отбор в нашей студии.<br/><img src="https://mars.algoritmika.org/uploads/2020/11/pixel-cells-3702056_1280_0_1606479607.png"/></p>
-            <h2 contest="plans">Планы развития</h2>
-            <p>В этом месяце мы готовим годовое планирование нашей работы. Кроме того, что мы принимаем и выполняем клиентские заказы по дизайну, мы участвуем в конкурсах, учимся на онлайн курсах, повышающих наше мастерство, просматриваем сборники лучших работ, которые можно найти в Интернете.<br/><img src="https://mars.algoritmika.org/uploads/2020/11/plans_0_1606479762.png"/></p>
-        </main>
-        <footer>
-            <p><b><i>Контакты</i></b></p>
-            <p>Адрес: г. Техноград, ул. Дисплейная, 15</p>
-            <p>Тел.: 8895-6341</p>
-        </footer>
+    <body style="font-family: sans-serif;">
+        <h1 style="font-size: 50px; text-align: center;">Турнир по киберспорту</h1>
+        <table style="border-collapse:collapse; border:1px solid lightgrey; margin: 10px; text-align: center; font-size: 20px;">
+            <tr style="background-color:Olive; color:white; border:1px solid lightgrey">
+                <td>Игра</td>
+                <td>Команда 1</td>
+                <td>Команда 2</td>
+                <td>Дата</td>
+                <td>чё</td>
+            </tr>
+            <tr style="border:1px solid lightgrey">
+                <td style="background-color:Olive; color:white; padding: 5px;">Warface</td>
+                <td style="background-color:burlywood; border:1px solid lightgrey; padding: 5px;"><img src="https://mars.algoritmika.org/uploads/2020/10/soldier_0_1603274414.png" width="30px" height="30px"/>Legion</td>
+                <td><img src="https://mars.algoritmika.org/uploads/2020/10/bomb-detonation_0_1603274413.png" width="30px" height="30px"/>Fire Master</td>
+                <td style="background-color:burlywood; padding: 5px;">11.11.2020</td>
+                <td style="padding: 5px;"><img src="https://mars.algoritmika.org/uploads/2020/10/swords_0_1603274414.png" width="30px" height="30px"/>2 : 0</td>
+            </tr> 
+            <tr style="border:1px solid lightgrey; padding: 5px;">
+                <td style="background-color:Olive; color:white; padding: 5px;">CrossFire</td>
+                <td style="background-color:burlywood; padding: 5px;"><img src="https://mars.algoritmika.org/uploads/2020/10/world-war_0_1603274414.png" width="30px" height="30px"/>Wind of War</td>
+                <td><img src="https://mars.algoritmika.org/uploads/2020/10/soldier_0_1603274414.png" width="30px" height="30px"/>Legion</td>
+                <td style="background-color:burlywood; padding: 5px;">22.11.2020</td>
+                <td style="padding: 5px;"><img src="https://mars.algoritmika.org/uploads/2020/10/swords_0_1603274414.png" width="30px" height="30px"/>2 : 1</td>
+            </tr>
+            <tr style="border:1px solid lightgrey; padding: 5px;">
+                <td style="background-color:Olive; color:white; padding: 5px;">сиси гоу</td>
+                <td style="background-color:burlywood; padding: 5px;"><img src="https://mars.algoritmika.org/uploads/2020/10/meteorite_0_1603274414.png" width="30px" height="30px"/>Demon Strike</td>
+                <td><img src="https://mars.algoritmika.org/uploads/2020/10/world-war_0_1603274414.png" width="30px" height="30px"/>Wind of War</td>
+                <td style="background-color:burlywood; padding: 5px;">03.12.2020</td>
+                <td style="padding: 5px;"><img src="https://mars.algoritmika.org/uploads/2020/10/swords_0_1603274414.png" width="30px" height="30px"/>1 : 0</td>
+            </tr>
+        </table>
     </body>
 </html>
